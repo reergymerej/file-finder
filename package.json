@@ -1,0 +1,23 @@
+{
+  "name": "file-finder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reergymerej/file-finder.git"
+  },
+  "author": "Jeremy Greer <jeremy.greer.atl@gmail.com> (http://jeremygreer.herokuapp.com/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reergymerej/file-finder/issues"
+  },
+  "homepage": "https://github.com/reergymerej/file-finder",
+  "devDependencies": {
+    "mocha": "^2.0.1",
+    "willy": "^1.0.1"
+  }
+}
